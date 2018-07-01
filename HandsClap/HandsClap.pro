@@ -29,11 +29,13 @@ SOURCES += \
     QuotoView.cpp \
     TaskItemWidget.cpp \
     TimeView.cpp \
-    TasksWidget.cpp
+    TasksWidget.cpp \
+    TaskAddDialog.cpp
 
 HEADERS += \
         MainWidget.h \
     QuotoView.h \
     TaskItemWidget.h \
     TimeView.h \
-    TasksWidget.h
+    TasksWidget.h \
+    TaskAddDialog.h

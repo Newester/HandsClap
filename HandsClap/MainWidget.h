@@ -2,17 +2,7 @@
 #define MAINWIDGET_H
 
 #include <QWidget>
-#include <QDialog>
-#include <QLayout>
-#include <QVBoxLayout>
-#include <QHBoxLayout>
-#include <QGridLayout>
-#include <QLabel>
-#include <QPushButton>
 
-#include <QVector>
-
-#include "TasksWidget.h"
 
 class MainWidget : public QWidget
 {
